@@ -160,17 +160,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: rgb(154, 95, 182) !important;
+  background-color: rgb(180, 133, 202) !important;
 }
 
 .text-primary {
-  color: rgb(154, 95, 182) !important;
+  color: rgb(152, 119, 172) !important;
 }
 
 a {
-  color: rgb(154, 95, 182);
+  color: rgb(173, 133, 192);
 }
 
 a:hover, a:focus, a:active {
-  color: #7d46a1;
+  color: #a87fc5;
 }
